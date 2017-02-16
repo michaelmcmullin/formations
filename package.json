@@ -1,0 +1,23 @@
+{
+  "name": "formations",
+  "version": "1.0.0",
+  "description": "A selection of starting points for web layouts.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmcnerd/formations.git"
+  },
+  "keywords": [
+    "css",
+    "js"
+  ],
+  "author": "Michael McMullin",
+  "bugs": {
+    "url": "https://github.com/mrmcnerd/formations/issues"
+  },
+  "homepage": "https://github.com/mrmcnerd/formations",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
