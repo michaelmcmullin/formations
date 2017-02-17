@@ -17,6 +17,7 @@
   "homepage": "https://github.com/mrmcnerd/formations",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.0.0",
     "grunt-contrib-watch": "^1.0.0",
     "grunt-sass": "^2.0.0"
   }
