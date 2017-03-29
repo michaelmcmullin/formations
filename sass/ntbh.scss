@@ -1,0 +1,15 @@
+@import 'variables/colours';
+@import 'reset/meyer';
+
+body {
+  font-family: Arial, Helvetica, Sans-Serif;
+  text-align: center;
+
+  .container {
+    margin: 0 auto;
+    text-align: left;
+    width: 920px;
+  }
+}
+
+@import 'layout/ntbh-layout';
